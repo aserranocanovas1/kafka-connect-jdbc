@@ -1,0 +1,11 @@
+io.confluent.connect.kerberos.jdbc.dialect.GenericDatabaseDialect$Provider
+io.confluent.connect.kerberos.jdbc.dialect.Db2DatabaseDialect$Provider
+io.confluent.connect.kerberos.jdbc.dialect.DerbyDatabaseDialect$Provider
+io.confluent.connect.kerberos.jdbc.dialect.OracleDatabaseDialect$Provider
+io.confluent.connect.kerberos.jdbc.dialect.SqliteDatabaseDialect$Provider
+io.confluent.connect.kerberos.jdbc.dialect.PostgreSqlDatabaseDialect$Provider
+io.confluent.connect.kerberos.jdbc.dialect.MySqlDatabaseDialect$Provider
+io.confluent.connect.kerberos.jdbc.dialect.SqlServerDatabaseDialect$Provider
+io.confluent.connect.kerberos.jdbc.dialect.SapHanaDatabaseDialect$Provider
+io.confluent.connect.kerberos.jdbc.dialect.SybaseDatabaseDialect$Provider
+io.confluent.connect.kerberos.jdbc.dialect.VerticaDatabaseDialect$Provider
